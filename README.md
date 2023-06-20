@@ -14,5 +14,3 @@ Shahriar Tamjid<br>
 Tamanna Tabassum Oishi<br>
 
 From Notre Dame University Bangladesh.
-
-# Thank you for your time :)
